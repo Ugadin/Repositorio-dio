@@ -1,0 +1,1 @@
+Este repositório serve para praticar comandos de Git e utilização correta do GitHub com versionamento de código
